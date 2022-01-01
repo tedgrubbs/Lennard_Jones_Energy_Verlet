@@ -1,0 +1,3 @@
+start temp = .721
+melting temp ~.75
+diffusion constant = 3-9
